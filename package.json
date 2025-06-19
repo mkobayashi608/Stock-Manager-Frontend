@@ -1,6 +1,6 @@
 {
   "name": "stock-manager-frontend",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "\u2708 A dynamic \ud83d\ude80and intuitive \ud83d\ude81 frontend \ud83d\udef3 application \ud83d\ude9f managing \ud83d\udea0 inventory \ud83d\udeec and stock in \ud83d\udea2 real time Built \ud83d\ude9e with modern \ud83d\ude9d web \ud83d\ude82 technologies \ud83d\ude83 this interface \ud83d\ude92 empowers \ud83d\ude88 businesses \ud83d\ude8e to track monitor \ud83d\udefc and analyze \ud83d\udef8 their product \u26f1 stocks with ease \u2602 and precision \ud83d\udefa Dashboard \u26bd with live \u26be stock ",
   "main": "src/index.js",
   "scripts": {
